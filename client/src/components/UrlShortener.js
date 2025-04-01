@@ -39,8 +39,8 @@ const UrlShortener = () => {
     setLoading(true);
     
     try {
-      // Send a POST request to our API
-      const response = await axios.post('http://localhost:5000/api/url/shorten', {
+      // Send a POST request to our API using the proxy
+      const response = await axios.post('/api/url/shorten', {
         originalUrl: urlToShorten
       });
       
