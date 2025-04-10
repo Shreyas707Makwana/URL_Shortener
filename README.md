@@ -36,8 +36,8 @@ This project is a URL shortener application built with **React** on the frontend
 
 Below are some screenshots showcasing the application:
 
-![Homepage Screenshot](/screenshot1.png)
-![Dashboard Screenshot](/screenshot2.png)
+![Homepage Screenshot](./screenshot-home.png)
+![Dashboard Screenshot](./screenshot-features.png)
 
 *Note: Ensure that your screenshots are placed in the `images` folder and the file names match the ones referenced above.*
 
