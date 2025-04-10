@@ -38,13 +38,3 @@ Below are some screenshots showcasing the application:
 
 ![Homepage Screenshot](./screenshot-home.png)
 ![Dashboard Screenshot](./screenshot-features.png)
-
-## Installation
-
-Follow these steps to get the project running locally:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Shreyas707Makwana/URL_Shortener.git
-
