@@ -39,8 +39,6 @@ Below are some screenshots showcasing the application:
 ![Homepage Screenshot](./screenshot-home.png)
 ![Dashboard Screenshot](./screenshot-features.png)
 
-*Note: Ensure that your screenshots are placed in the `images` folder and the file names match the ones referenced above.*
-
 ## Installation
 
 Follow these steps to get the project running locally:
