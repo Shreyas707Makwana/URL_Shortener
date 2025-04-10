@@ -7,12 +7,7 @@ Welcome to the URL Shortener project! This repository houses a complete URL shor
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+  
 ## Overview
 
 This project is a URL shortener application built with **React** on the frontend, **Node.js** and **Express** on the backend, and **MongoDB** as the database. The application allows users to shorten long URLs and provides an intuitive interface to manage and track your links.
